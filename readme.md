@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate Java developer with over 5 years 
 - 🔭 I’m currently working with **Java** in a variety of exciting projects.
 - 🌱 I’m constantly improving my skills and learning more about **Java development, software engineering**, and **optimization**.
 - 💬 Feel free to reach out if you want to talk about **Java**, **IntelliJ IDEA**, or **software development**.
-- 📫 Reach me on Discord: [petulikan1](https://discord.com/users/petulikan1)
+- 📫 Reach me on Discord: @petulikan1
 
 ## 🔧 Technologies & Tools
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
