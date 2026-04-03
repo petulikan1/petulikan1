@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate Java developer with over 5 years 
 
 ## 🔧 Technologies & Tools
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-61B8F2?style=flat&logo=openai&logoColor=white)
 ![StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)
